@@ -4,10 +4,10 @@ This is a Telegram bot that allows users to compile code in various programming 
 ## Installation
 To use this bot, you will need a Telegram account. Then, follow these steps:
 
-Clone this repository
-Install the required packages
-Get your Telegram bot API key from BotFather and replace API_KEY in main.py with your API key.
-Start the bot: `python3 main.py`.
+* Clone this repository
+* Install the required packages
+* Get your Telegram bot API key from BotFather and replace API_KEY in main.py with your API key.
+* Start the bot: `python3 main.py`.
 ## Usage
 Once the bot is running, you can use it as follows:
 
